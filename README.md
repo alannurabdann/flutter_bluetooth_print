@@ -1,6 +1,7 @@
 # flutter_print_bluetooth
 
-A new Flutter project.
+A new Flutter project for bluetooth print using this package https://pub.dev/packages/blue_print_pos. Work on IOS!
+Easily add logo and QR inside receipt. Super cool.
 
 ## Getting Started
 
